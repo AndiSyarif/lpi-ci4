@@ -125,3 +125,4 @@
 # /phpunit*.xml
 # /.phpunit.*.cache
 
+*.zip
